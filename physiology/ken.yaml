@@ -1,0 +1,14 @@
+# Ken package manifest
+id: diamondBelema/physiology
+name: Physiology
+version: 1.0.0
+author: diamondBelema
+description: ""
+license: ""
+subjects:
+    - physiology
+concepts: 84
+flashcards: 0
+tags: []
+dependencies: []
+repository: https://github.com/diamondBelema/ken-subjects

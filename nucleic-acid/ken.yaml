@@ -1,0 +1,19 @@
+# Ken package manifest
+id: diamondBelema/nucleic-acid
+name: Nucleic Acid
+version: 1.0.0
+author: Diamond Belema
+description: DNA structure, RNA types, nucleotide metabolism
+license: ""
+subjects:
+    - nucleic-acid
+concepts: 100
+flashcards: 71
+tags:
+    - biochemistry
+    - nucleic-acid
+    - dna
+    - rna
+    - medical
+dependencies: []
+repository: https://github.com/diamondBelema/ken-subjects

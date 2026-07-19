@@ -1,0 +1,17 @@
+# Ken package manifest
+id: diamondBelema/anatomy
+name: Anatomy
+version: 1.0.1
+author: diamondBelema
+description: "Human anatomy: thorax, abdomen, pelvis and perineum"
+license: ""
+subjects:
+    - anatomy
+concepts: 170
+flashcards: 0
+tags:
+    - anatomy
+    - medical
+    - mbbs
+dependencies: []
+repository: https://github.com/diamondBelema/ken-subjects

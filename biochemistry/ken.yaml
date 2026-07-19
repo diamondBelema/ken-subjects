@@ -1,0 +1,14 @@
+# Ken package manifest
+id: diamondBelema/biochemistry
+name: Biochemistry
+version: 1.0.0
+author: diamondBelema
+description: ""
+license: ""
+subjects:
+    - biochemistry
+concepts: 56
+flashcards: 0
+tags: []
+dependencies: []
+repository: https://github.com/diamondBelema/ken-subjects
