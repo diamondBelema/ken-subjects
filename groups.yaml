@@ -1,0 +1,70 @@
+# BCH 220/229 Practical — Groups
+
+groups:
+  - name: Protein & Amino Acids
+    description: Proteinuria detection, paper chromatography, albumin estimation
+    concepts:
+      - bch-proteinuria
+      - bch-chromatography
+      - bch-albumin
+      - bch-transamination
+
+  - name: Renal Function Tests
+    description: Urea, creatinine, uric acid — kidney function markers
+    concepts:
+      - bch-serum-urea
+      - bch-creatinine
+      - bch-uric-acid
+
+  - name: Electrolytes
+    description: Sodium, potassium, chloride determination
+    concepts:
+      - bch-electrolytes
+
+  - name: Carbohydrates
+    description: OGTT, glucose oxidase method
+    concepts:
+      - bch-ogtt
+
+  - name: Enzymes & Kinetics
+    description: Transamination, ALP kinetics, Michaelis-Menten
+    concepts:
+      - bch-transamination
+      - bch-alkaline-phosphatase
+
+  - name: High-Yield Calculations
+    description: Beer-Lambert, Rf values, concentration formulas
+    concepts:
+      - bch-chromatography
+      - bch-serum-urea
+      - bch-electrolytes
+      - bch-creatinine
+      - bch-albumin
+      - bch-uric-acid
+
+  - name: Viva Traps
+    description: 'Why questions that examiners love to ask'
+    concepts:
+      - bch-proteinuria
+      - bch-chromatography
+      - bch-serum-urea
+      - bch-electrolytes
+      - bch-creatinine
+      - bch-alkaline-phosphatase
+      - bch-transamination
+      - bch-ogtt
+      - bch-uric-acid
+      - bch-albumin
+
+  - name: Clinical Significance
+    description: What results mean for patients
+    concepts:
+      - bch-proteinuria
+      - bch-serum-urea
+      - bch-electrolytes
+      - bch-creatinine
+      - bch-albumin
+      - bch-ogtt
+      - bch-uric-acid
+      - bch-transamination
+      - bch-alkaline-phosphatase

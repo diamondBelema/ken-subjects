@@ -1,0 +1,15 @@
+# Ken package manifest
+id: diamondBelema/bch-practical
+name: BCH 220/229 Practical
+version: 1.0.0
+author: diamondBelema
+description: "Biochemistry practical exam preparation — 10 core experiments covering renal function, electrolytes, carbohydrates, enzymes, and protein analysis"
+license: ""
+subjects:
+    - bch-practical
+concepts: 10
+flashcards: 50
+quizzes: 30
+tags: [biochemistry, practical, clinical-chemistry, spectrophotometry, enzymes, renal-function, electrolytes]
+dependencies: []
+repository: https://github.com/diamondBelema/ken-subjects
